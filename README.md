@@ -1,4 +1,4 @@
-# subconverter
+# subconverter(MetaCubeX)
 
 Utility to convert between various proxy subscription formats.
 
